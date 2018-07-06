@@ -1,0 +1,6 @@
+framework module Pods_Suretgram {
+  umbrella header "Pods-Suretgram-umbrella.h"
+
+  export *
+  module * { export * }
+}
